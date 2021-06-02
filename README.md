@@ -1,6 +1,7 @@
 # procestypecatalogus
 [![StyleCI](https://github.styleci.io/repos/198549944/shield?branch=master)](https://github.styleci.io/repos/198549944?branch=master)
-[![Docker Image CI](https://github.com/ConductionNL/procestypecatalogus/workflows/Docker%20Image%20CI/badge.svg?branch=master)](https://github.com/ConductionNL/procestypecatalogus/actions?query=workflow%3A"Docker+Image+CI") <br>
+[![Docker Image CI](https://github.com/ConductionNL/procestypecatalogus/workflows/Docker%20Image%20CI/badge.svg?branch=master)](https://github.com/ConductionNL/procestypecatalogus/actions?query=workflow%3A"Docker+Image+CI") [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FConductionNL%2Fprocestypecatalogus.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FConductionNL%2Fprocestypecatalogus?ref=badge_shield)
+<br>
 [![Artifacthub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/procestypecatalogus)](https://artifacthub.io/packages/helm/procestypecatalogus/procestypecatalogus)
 [![BCH compliance](https://bettercodehub.com/edge/badge/ConductionNL/procestypecatalogus?branch=master)](https://bettercodehub.com/)
 
@@ -81,3 +82,7 @@ Credits
 Information about the authors of this component can be found [here](AUTHORS.md)
 
 Copyright © [Utrecht](https://www.utrecht.nl/) 2019
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FConductionNL%2Fprocestypecatalogus.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FConductionNL%2Fprocestypecatalogus?ref=badge_large)
